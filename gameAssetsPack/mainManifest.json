@@ -1,0 +1,68 @@
+[
+  {
+    "alias": "main/icon/bank",
+    "src": [
+      "gameAssetsPack/main/icon/bank-5d2e536c.svg"
+    ]
+  },
+  {
+    "alias": "main/img/card_bg",
+    "src": [
+      "gameAssetsPack/main/img/card_bg-351dd91d.svg"
+    ]
+  },
+  {
+    "alias": "main/icon/shop",
+    "src": [
+      "gameAssetsPack/main/icon/shop-37506a27.svg"
+    ]
+  },
+  {
+    "alias": "main/img/ripple",
+    "src": [
+      "gameAssetsPack/main/img/ripple-9db320b4.png"
+    ]
+  },
+  {
+    "alias": "main/icon/backpack",
+    "src": [
+      "gameAssetsPack/main/icon/backpack-b198f1bb.svg"
+    ]
+  },
+  {
+    "alias": "main/icon/assure",
+    "src": [
+      "gameAssetsPack/main/icon/assure-4ed0dde0.svg"
+    ]
+  },
+  {
+    "alias": "main/img/surface",
+    "src": [
+      "gameAssetsPack/main/img/surface-eee8af82.svg"
+    ]
+  },
+  {
+    "alias": "main/img/close",
+    "src": [
+      "gameAssetsPack/main/img/close-6b366804.svg"
+    ]
+  },
+  {
+    "alias": "main/img/water",
+    "src": [
+      "gameAssetsPack/main/img/water-1887e477.svg"
+    ]
+  },
+  {
+    "alias": "main/icon/fish_list",
+    "src": [
+      "gameAssetsPack/main/icon/fish_list-a75d509a.svg"
+    ]
+  },
+  {
+    "alias": "main/font/emoji",
+    "src": [
+      "gameAssetsPack/main/font/emoji.ttf"
+    ]
+  }
+]
