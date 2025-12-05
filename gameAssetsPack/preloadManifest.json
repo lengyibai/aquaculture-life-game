@@ -1,8 +1,8 @@
 [
   {
-    "alias": "preload/img/water",
+    "alias": "preload/img/surface",
     "src": [
-      "gameAssetsPack/preload/img/water-1887e477.svg"
+      "gameAssetsPack/preload/img/surface-eee8af82.svg"
     ]
   },
   {
@@ -12,15 +12,15 @@
     ]
   },
   {
-    "alias": "preload/img/surface",
-    "src": [
-      "gameAssetsPack/preload/img/surface-eee8af82.svg"
-    ]
-  },
-  {
     "alias": "preload/img/card_bg",
     "src": [
       "gameAssetsPack/preload/img/card_bg-351dd91d.svg"
+    ]
+  },
+  {
+    "alias": "preload/img/water",
+    "src": [
+      "gameAssetsPack/preload/img/water-1887e477.svg"
     ]
   },
   {
