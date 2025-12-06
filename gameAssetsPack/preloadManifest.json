@@ -1,8 +1,8 @@
 [
   {
-    "alias": "preload/img/surface",
+    "alias": "preload/img/card_bg",
     "src": [
-      "gameAssetsPack/preload/img/surface-eee8af82.svg"
+      "gameAssetsPack/preload/img/card_bg-351dd91d.svg"
     ]
   },
   {
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "alias": "preload/img/card_bg",
+    "alias": "preload/img/surface",
     "src": [
-      "gameAssetsPack/preload/img/card_bg-351dd91d.svg"
+      "gameAssetsPack/preload/img/surface-eee8af82.svg"
     ]
   },
   {
