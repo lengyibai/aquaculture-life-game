@@ -1,8 +1,20 @@
 [
   {
+    "alias": "main/icon/fish_list",
+    "src": [
+      "gameAssetsPack/main/icon/fish_list-a75d509a.svg"
+    ]
+  },
+  {
     "alias": "main/img/close",
     "src": [
       "gameAssetsPack/main/img/close-6b366804.svg"
+    ]
+  },
+  {
+    "alias": "main/icon/bank",
+    "src": [
+      "gameAssetsPack/main/icon/bank-5d2e536c.svg"
     ]
   },
   {
@@ -12,9 +24,9 @@
     ]
   },
   {
-    "alias": "main/img/card_bg",
+    "alias": "main/icon/shop",
     "src": [
-      "gameAssetsPack/main/img/card_bg-351dd91d.svg"
+      "gameAssetsPack/main/icon/shop-37506a27.svg"
     ]
   },
   {
@@ -24,9 +36,9 @@
     ]
   },
   {
-    "alias": "main/icon/fish_list",
+    "alias": "main/img/water",
     "src": [
-      "gameAssetsPack/main/icon/fish_list-a75d509a.svg"
+      "gameAssetsPack/main/img/water-1887e477.svg"
     ]
   },
   {
@@ -42,21 +54,9 @@
     ]
   },
   {
-    "alias": "main/img/water",
+    "alias": "main/img/card_bg",
     "src": [
-      "gameAssetsPack/main/img/water-1887e477.svg"
-    ]
-  },
-  {
-    "alias": "main/icon/shop",
-    "src": [
-      "gameAssetsPack/main/icon/shop-37506a27.svg"
-    ]
-  },
-  {
-    "alias": "main/icon/bank",
-    "src": [
-      "gameAssetsPack/main/icon/bank-5d2e536c.svg"
+      "gameAssetsPack/main/img/card_bg-351dd91d.svg"
     ]
   },
   {
