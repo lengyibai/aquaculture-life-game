@@ -2,8 +2,6 @@
 chcp 65001 >nul
 setlocal enabledelayedexpansion
 
-cd /d "E:\公司\hotupdatatest"
-
 echo 执行 git add . ...
 git add .
 
